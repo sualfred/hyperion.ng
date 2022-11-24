@@ -2,7 +2,7 @@
 
 DOCKER="docker"
 # Git repo url of Hyperion
-GIT_REPO_URL="https://github.com/hyperion-project/hyperion.ng.git"
+GIT_REPO_URL="https://github.com/sualfred/hyperion.ng.git"
 # GitHub Container Registry url
 REGISTRY_URL="ghcr.io/hyperion-project"
 # cmake build type
